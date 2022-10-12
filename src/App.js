@@ -7,6 +7,10 @@ function App() {
 			<header className="App-header">
 				<h1>Weather Search Engine</h1>
 				<WeatherSearch />
+				<br />
+				<a href="https://github.com/EniseK/weather-react-vsc">
+					<small>Project link on GitHub</small>
+				</a>
 			</header>
 		</div>
 	);
