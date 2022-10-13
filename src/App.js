@@ -9,7 +9,7 @@ function App() {
 				<WeatherSearch />
 				<br />
 				<a href="https://github.com/EniseK/weather-react-vsc">
-					<small>Project link on GitHub</small>
+					<small>Project link to GitHub</small>
 				</a>
 			</header>
 		</div>
